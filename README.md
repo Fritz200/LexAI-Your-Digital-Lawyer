@@ -60,5 +60,6 @@ Develop multilingual solutions for global use.
 Form partnerships with universities and government agencies to validate the system’s reliability.
 
 **Acknowledgments:**
+
 Use open-source tools like spaCy, TensorFlow, or Hugging Face for NLP.
 Inspired by legal services such as LexisNexis and AI models like OpenAI’s GPT.
