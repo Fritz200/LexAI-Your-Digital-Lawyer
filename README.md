@@ -65,3 +65,11 @@ Form partnerships with universities and government agencies to validate the syst
 
 Use open-source tools like spaCy, TensorFlow, or Hugging Face for NLP.
 Inspired by legal services such as LexisNexis and AI models like OpenAI’s GPT.
+
+**Summary:**
+
+This project aims to replace traditional lawyers with AI, providing fast, cost-effective, and accessible legal advice. Using NLP and machine learning, the AI automates legal processes, democratizing the legal system.
+Building AI course project
+
+
+
