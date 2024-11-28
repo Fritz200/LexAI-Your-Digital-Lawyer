@@ -1,7 +1,7 @@
 # LexAI-Your-Digital-Lawyer
 LexAI is an AI-driven platform that automates legal advice and document analysis, aiming to provide fast, accessible, and cost-effective legal assistance. Using advanced machine learning and natural language processing (NLP), LexAI interprets laws and case law to offer real-time legal solutions and recommendations.
 
-![AI-Lawyer](b716e00d-c936-49ae-8ae3-606c3daa09a.webp)
+![AI-Lawyer](https://github.com/Fritz200/LexAI-Your-Digital-Lawyer/blob/main/DALL%C2%B7E%202024-11-28%2012.59.54%20-%20A%20futuristic%20office%20scene%20showing%20a%20lawyer's%20desk%20with%20a%20large%20AI%20interface%20taking%20over%20the%20role%20of%20a%20human%20lawyer.%20The%20AI%20is%20represented%20by%20a%20sleek%20h.jpeg)
 
 **The Problem:**
 Legal services can be expensive and inaccessible for many individuals and small businesses. There is a significant demand for legal advice, but many cannot afford qualified lawyers. Another challenge is that legal documents are complex and time-consuming to review.
